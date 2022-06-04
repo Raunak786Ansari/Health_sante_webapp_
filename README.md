@@ -1,3 +1,4 @@
+
 # [Sante](https://sante-mental-health.netlify.app/) ⭐
 
 ![React Badge](http://img.shields.io/badge/Powered%20By-React-blue?style=for-the-badge&logo=)&nbsp;
@@ -24,7 +25,7 @@
 <img src="images/WhatsApp Image 2022-04-20 at 12.17.04 PM.jpeg">
 <img src="images/WhatsApp Image 2022-04-20 at 1.08.37 PM.jpeg">
 <img src="images/WhatsApp Image 2022-04-21 at 1.41.59 AM.jpeg">
-<img src="images/Screenshot 2022-04-20 130549.jpg">
+
 
 
 - Get consulted with doctors 🧑‍⚕ listed in our application 📱 and let them solve your mental 🧠 health issues
