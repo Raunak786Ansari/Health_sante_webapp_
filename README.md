@@ -1,5 +1,5 @@
 
-# [Sante](https://[sante-mental-health.netlify.app](https://raunak786ansari.github.io/Health_sante_webapp_/)/) ⭐
+# [Sante](https://raunak786ansari.github.io/Health_sante_webapp_/) ⭐
 
 ![React Badge](http://img.shields.io/badge/Powered%20By-React-blue?style=for-the-badge&logo=)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
