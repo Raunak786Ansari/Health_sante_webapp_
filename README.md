@@ -13,7 +13,7 @@
 
 
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://[sante-mental-health.netlify.app](https://raunak786ansari.github.io/Health_sante_webapp_/)/)
-[![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/sante)
+
 
 ## Overview 👀
 <img src="images/WhatsApp Image 2022-04-20 at 12.17.03 PM.jpeg">
