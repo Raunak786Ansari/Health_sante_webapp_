@@ -12,7 +12,7 @@
 <a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
 
 
-[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://[sante-mental-health.netlify.app](https://raunak786ansari.github.io/Health_sante_webapp_/)/)
+[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://raunak786ansari.github.io/Health_sante_webapp_//)
 
 
 ## Overview 👀
