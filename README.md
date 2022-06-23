@@ -14,20 +14,6 @@
 
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://raunak786ansari.github.io/Health_sante_webapp_//)
 
-
-## Overview 👀
-<img src="images/WhatsApp Image 2022-04-20 at 12.17.03 PM.jpeg">
-<img src="images/WhatsApp Image 2022-04-20 at 12.17.02 PM (2).jpeg">
-<img src="images/WhatsApp Image 2022-04-20 at 12.17.02 PM.jpeg">
-<img src="images/WhatsApp Image 2022-04-20 at 12.17.02 PM (1).jpeg">
-<img src="images/WhatsApp Image 2022-04-20 at 12.16.40 PM.jpeg">
-<img src="images/WhatsApp Image 2022-04-20 at 12.16.39 PM.jpeg">
-<img src="images/WhatsApp Image 2022-04-20 at 12.17.04 PM.jpeg">
-<img src="images/WhatsApp Image 2022-04-20 at 1.08.37 PM.jpeg">
-<img src="images/WhatsApp Image 2022-04-21 at 1.41.59 AM.jpeg">
-
-
-
 - Get consulted with doctors 🧑‍⚕ listed in our application 📱 and let them solve your mental 🧠 health issues
 - Real time video chat 📹 as well as normal chat 💬 between user and doctor
 - User can also watch ▶️ YouTube Videos of famous channel "Psych2go" in order to cure themselves from mental trauma
@@ -78,3 +64,18 @@
 > After few seconds the application will be opened in respective device chosen by the user
     
 ```
+
+## Overview 👀
+<img src="images/WhatsApp Image 2022-04-20 at 12.17.03 PM.jpeg">
+<img src="images/WhatsApp Image 2022-04-20 at 12.17.02 PM (2).jpeg">
+<img src="images/WhatsApp Image 2022-04-20 at 12.17.02 PM.jpeg">
+<img src="images/WhatsApp Image 2022-04-20 at 12.17.02 PM (1).jpeg">
+<img src="images/WhatsApp Image 2022-04-20 at 12.16.40 PM.jpeg">
+<img src="images/WhatsApp Image 2022-04-20 at 12.16.39 PM.jpeg">
+<img src="images/WhatsApp Image 2022-04-20 at 12.17.04 PM.jpeg">
+<img src="images/WhatsApp Image 2022-04-20 at 1.08.37 PM.jpeg">
+<img src="images/WhatsApp Image 2022-04-21 at 1.41.59 AM.jpeg">
+
+
+
+
