@@ -19,9 +19,10 @@
 ## ****Azure Service- Static webapp****
 
 - Azure Static Web Apps is a service that automatically builds and deploys full stack web apps to Azure from a code repository.
+
 - Static web apps are commonly built using libraries and frameworks like Angular, React, Svelte, Vue, or Blazor where server side rendering is not required. These apps include HTML, CSS, JavaScript, and image assets that make up the application. With a traditional web server, these assets are served from a single server alongside any required API endpoints.
 
-
+*************************************************************
 - Get consulted with doctors 🧑‍⚕ listed in our application 📱 and let them solve your mental 🧠 health issues
 - Real time video chat 📹 as well as normal chat 💬 between user and doctor
 - User can also watch ▶️ YouTube Videos of famous channel "Psych2go" in order to cure themselves from mental trauma
