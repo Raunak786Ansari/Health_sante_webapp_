@@ -30,7 +30,7 @@
 
 
 ## How it works? 🤔
-- **Open the website [https://sante-mental-health.netlify.app/](https://yellow-meadow-0c3d56c10.1.azurestaticapps.net/)**
+- **Run the website: (https://yellow-meadow-0c3d56c10.1.azurestaticapps.net/)**
 - **The application can be downloaded in APK format using the “Download App” button present in the website.**
 - **Also the consultation section is developed for websites too, which means if someone wants to take doctors consultation from there they may take it very easily.**
 - **The consultation section is made using the concept of Socket.io and rooms concept with which the user just needs to join with the room id at the correct time mentioned in the respective section of the doctor, in order to get their consultation.**
