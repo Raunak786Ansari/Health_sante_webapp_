@@ -1,5 +1,5 @@
 
-# [Sante](https://raunak786ansari.github.io/Health_sante_webapp_/) ⭐
+# [Sante](https://yellow-meadow-0c3d56c10.1.azurestaticapps.net/) ⭐
 
 ![React Badge](http://img.shields.io/badge/Powered%20By-React-blue?style=for-the-badge&logo=)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
@@ -12,7 +12,9 @@
 <a href="https://dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
 
 
-[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://raunak786ansari.github.io/Health_sante_webapp_//)
+[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://yellow-meadow-0c3d56c10.1.azurestaticapps.net/)
+
+!!! Azure deployed website link : https://yellow-meadow-0c3d56c10.1.azurestaticapps.net/
 
 - Get consulted with doctors 🧑‍⚕ listed in our application 📱 and let them solve your mental 🧠 health issues
 - Real time video chat 📹 as well as normal chat 💬 between user and doctor
@@ -28,7 +30,7 @@
 
 
 ## How it works? 🤔
-- **Open the website [https://sante-mental-health.netlify.app/](https://raunak786ansari.github.io/Health_sante_webapp_/)**
+- **Open the website [https://sante-mental-health.netlify.app/](https://yellow-meadow-0c3d56c10.1.azurestaticapps.net/)**
 - **The application can be downloaded in APK format using the “Download App” button present in the website.**
 - **Also the consultation section is developed for websites too, which means if someone wants to take doctors consultation from there they may take it very easily.**
 - **The consultation section is made using the concept of Socket.io and rooms concept with which the user just needs to join with the room id at the correct time mentioned in the respective section of the doctor, in order to get their consultation.**
