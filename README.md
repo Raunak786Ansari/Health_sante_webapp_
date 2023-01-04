@@ -30,7 +30,7 @@ website URL : https://yellow-meadow-0c3d56c10.1.azurestaticapps.net/
 - Get consulted with doctors 🧑‍⚕ listed in our application 📱 and let them solve your mental 🧠 health issues
 - Real time video chat 📹 as well as normal chat 💬 between user and doctor
 - User can also watch ▶️ YouTube Videos of famous channel "Psych2go" in order to cure themselves from mental trauma
-- *****New Features*********: Also they can try hands on our innovative AR feature by tapping on random dot like structure resulting in genreation of beautiful quotes in augmented world
+- *****⚡⚡⚡⚡New Features⚡⚡⚡⚡*********: Also they can try hands on our innovative AR feature by tapping on random dot like structure resulting in genreation of beautiful quotes in augmented world
 - They may also listen 🎧 to soothing and mind refreshing songs 🎶 listed in our application 📱
 - Clean UI ⚡
 
@@ -45,7 +45,7 @@ website URL : https://yellow-meadow-0c3d56c10.1.azurestaticapps.net/
 - **The application can be downloaded in APK format using the “Download App” button present in the website.**
 - **Also the consultation section is developed for websites too, which means if someone wants to take doctors consultation from there they may take it very easily.**
 - **The consultation section is made using the concept of Socket.io and rooms concept with which the user just needs to join with the room id at the correct time mentioned in the respective section of the doctor, in order to get their consultation.**
-- ******New fetures:**********Video chat option is also available for the user in both app and website such that user can copy a unique id for video chat section and sent it to the doctor in the room in which both are present and after user may call the doctor from the video calling section and if doctor picks up the call then both may can see each other also they can listen audio as well in order to get better consultation.**
+- ******⚡⚡⚡⚡New features⚡⚡⚡⚡**********: Video chat option is also available for the user in both app and website such that user can copy a unique id for video chat section and sent it to the doctor in the room in which both are present and after user may call the doctor from the video calling section and if doctor picks up the call then both may can see each other also they can listen audio as well in order to get better consultation.**
 
 
 ## Dependencies 🗃
@@ -88,6 +88,8 @@ website URL : https://yellow-meadow-0c3d56c10.1.azurestaticapps.net/
 <img src="images/WhatsApp Image 2022-04-20 at 12.17.04 PM.jpeg">
 <img src="images/WhatsApp Image 2022-04-20 at 1.08.37 PM.jpeg">
 <img src="images/WhatsApp Image 2022-04-21 at 1.41.59 AM.jpeg">
+<img src="images/IMG_20230104_105140.jpg">
+
 
 
 
