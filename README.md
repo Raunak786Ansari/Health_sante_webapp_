@@ -15,7 +15,7 @@
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://yellow-meadow-0c3d56c10.1.azurestaticapps.net/)
 
 ## *************Project Demo URL(youtube)**************
-URL: https://youtu.be/A5E_lywKJz4
+URL: https://youtu.be/FMSXVMuyYr4
 
 ## ************* Azure Deployed URL **************
 website URL : https://yellow-meadow-0c3d56c10.1.azurestaticapps.net/
