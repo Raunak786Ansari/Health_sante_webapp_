@@ -87,7 +87,7 @@ website URL : https://yellow-meadow-0c3d56c10.1.azurestaticapps.net/
 <img src="images/WhatsApp Image 2022-04-20 at 12.16.39 PM.jpeg">
 <img src="images/WhatsApp Image 2022-04-20 at 12.17.04 PM.jpeg">
 <img src="images/WhatsApp Image 2022-04-20 at 1.08.37 PM.jpeg">
-<img src="images/WhatsApp Image 2022-04-21 at 1.41.59 AM.jpeg">
+
 <img src="images/IMG_20230104_105140.jpg">
 
 
